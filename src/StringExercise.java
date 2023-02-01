@@ -4,10 +4,10 @@ import java.util.Scanner;
 public class StringExercise {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String tom = "We don't need no education";
-        System.out.printf("%s %n", tom);
-        tom = "We dont need no thought control";
-        System.out.println(tom);
+        String badges = "We don't need no stinkin badges";
+        System.out.printf("%s %n", badges);
+        badges = "Badges?!, We dont need no stinkin badges";
+        System.out.println(badges);
 
         String s = "Check \"this\" out!, \"s inside of \"s!";
         System.out.println(s);
