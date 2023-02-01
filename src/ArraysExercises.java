@@ -5,7 +5,7 @@ public class ArraysExercises {
 //        int[] numbers = {1, 2, 3, 4, 5};
 //        System.out.println(Arrays.toString(numbers));
 
-//        String[] names = {"john", "alex", "martha"};
+//        String[] names = {"john", "tom", "frank"};
 //        Person[] personsArr = new Person[3];
 //        for (int i = 0; i < personsArr.length; i++){
 //            personsArr[i] = new Person(names[i]);

@@ -1,8 +1,8 @@
 public class ServerNameGenerator {
 
-    private static String[] adjective = {"ugly", "blue", "pretty", "goofy", "dirty", "golden", "amazing", "awesome", "new", "old"};
+    private static String[] adjective = {"large", "small", "huge", "round", "fancy", "ugly", "dirty", "cheap", "new", "old"};
 
-    private static String[] noun = {"dog", "cat", "lion", "fish", "whale", "car", "truck", "computer", "phone", "river"};
+    private static String[] noun = {"dog", "cat", "truck", "car", "motorcycle", "house", "pants", "shoes", "hat", "person"};
 
     private static String randomizer(String[] strings){
         int randomNumber = (int) (Math.random() * strings.length);
